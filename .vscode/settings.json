@@ -1,0 +1,6 @@
+{
+    "go.toolsEnvVars": {
+        "GOROOT": "C:\\Users\\Matt\\AppData\\Local\\tinygo\\goroot-go1.15.6-a312f075ab59ff2cc0229d35d56b2b33ee5c52775b3bfdc3d59a3cc65cb0e56a-syscall",
+        "GOFLAGS": "-tags=gameboyadvance,arm7tdmi,baremetal,linux,arm,tinygo,gc.conservative,scheduler.coroutines"
+    }
+}
