@@ -3,7 +3,7 @@ from tqdm import tqdm
 
 with open('image.bin', 'wb') as f:
     out = bytearray()
-    img = Image.open('blog.png')
+    img = Image.open('thug.png')
     rgb_im = img.convert('RGBA')
     #rgb_im = rgb_im.resize((240,160), Image.BICUBIC)
     #rgb_im = rgb_im.crop((0,0,240,160))

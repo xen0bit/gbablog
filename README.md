@@ -1,4 +1,6 @@
 # gbablog
 
-tinygo build -target gameboy-advance -o .\blog.gba blog.go
+tinygo build -o main.gba -target gameboy-advance .\blog.go
+
+
 
